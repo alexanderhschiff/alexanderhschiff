@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @alexanderhschiff
+- 👀 I’m interested in computer science's omnipresent and positive impact on the world!
+- 👨‍💻 Learn more at www.alexanderschiff.me
