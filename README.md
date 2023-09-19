@@ -1,2 +1,1 @@
 - 👋 Hi, I’m @alexanderhschiff
-- 👀 I’m a senior CS major @ Duke University
